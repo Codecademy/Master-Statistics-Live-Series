@@ -1,0 +1,304 @@
+age,sex,trestbps,chol,cp,exang,fbs,thalach,heart_disease
+63.0,male,145.0,233.0,typical angina,0.0,1.0,150.0,absence
+67.0,male,160.0,286.0,asymptomatic,1.0,0.0,108.0,presence
+67.0,male,120.0,229.0,asymptomatic,1.0,0.0,129.0,presence
+37.0,male,130.0,250.0,non-anginal pain,0.0,0.0,187.0,absence
+41.0,female,130.0,204.0,atypical angina,0.0,0.0,172.0,absence
+56.0,male,120.0,236.0,atypical angina,0.0,0.0,178.0,absence
+62.0,female,140.0,268.0,asymptomatic,0.0,0.0,160.0,presence
+57.0,female,120.0,354.0,asymptomatic,1.0,0.0,163.0,absence
+63.0,male,130.0,254.0,asymptomatic,0.0,0.0,147.0,presence
+53.0,male,140.0,203.0,asymptomatic,1.0,1.0,155.0,presence
+57.0,male,140.0,192.0,asymptomatic,0.0,0.0,148.0,absence
+56.0,female,140.0,294.0,atypical angina,0.0,0.0,153.0,absence
+56.0,male,130.0,256.0,non-anginal pain,1.0,1.0,142.0,presence
+44.0,male,120.0,263.0,atypical angina,0.0,0.0,173.0,absence
+52.0,male,172.0,199.0,non-anginal pain,0.0,1.0,162.0,absence
+57.0,male,150.0,168.0,non-anginal pain,0.0,0.0,174.0,absence
+48.0,male,110.0,229.0,atypical angina,0.0,0.0,168.0,presence
+54.0,male,140.0,239.0,asymptomatic,0.0,0.0,160.0,absence
+48.0,female,130.0,275.0,non-anginal pain,0.0,0.0,139.0,absence
+49.0,male,130.0,266.0,atypical angina,0.0,0.0,171.0,absence
+64.0,male,110.0,211.0,typical angina,1.0,0.0,144.0,absence
+58.0,female,150.0,283.0,typical angina,0.0,1.0,162.0,absence
+58.0,male,120.0,284.0,atypical angina,0.0,0.0,160.0,presence
+58.0,male,132.0,224.0,non-anginal pain,0.0,0.0,173.0,presence
+60.0,male,130.0,206.0,asymptomatic,1.0,0.0,132.0,presence
+50.0,female,120.0,219.0,non-anginal pain,0.0,0.0,158.0,absence
+58.0,female,120.0,340.0,non-anginal pain,0.0,0.0,172.0,absence
+66.0,female,150.0,226.0,typical angina,0.0,0.0,114.0,absence
+43.0,male,150.0,247.0,asymptomatic,0.0,0.0,171.0,absence
+40.0,male,110.0,167.0,asymptomatic,1.0,0.0,114.0,presence
+69.0,female,140.0,239.0,typical angina,0.0,0.0,151.0,absence
+60.0,male,117.0,230.0,asymptomatic,1.0,1.0,160.0,presence
+64.0,male,140.0,335.0,non-anginal pain,0.0,0.0,158.0,presence
+59.0,male,135.0,234.0,asymptomatic,0.0,0.0,161.0,absence
+44.0,male,130.0,233.0,non-anginal pain,1.0,0.0,179.0,absence
+42.0,male,140.0,226.0,asymptomatic,0.0,0.0,178.0,absence
+43.0,male,120.0,177.0,asymptomatic,1.0,0.0,120.0,presence
+57.0,male,150.0,276.0,asymptomatic,1.0,0.0,112.0,presence
+55.0,male,132.0,353.0,asymptomatic,1.0,0.0,132.0,presence
+61.0,male,150.0,243.0,non-anginal pain,1.0,1.0,137.0,absence
+65.0,female,150.0,225.0,asymptomatic,0.0,0.0,114.0,presence
+40.0,male,140.0,199.0,typical angina,1.0,0.0,178.0,absence
+71.0,female,160.0,302.0,atypical angina,0.0,0.0,162.0,absence
+59.0,male,150.0,212.0,non-anginal pain,0.0,1.0,157.0,absence
+61.0,female,130.0,330.0,asymptomatic,0.0,0.0,169.0,presence
+58.0,male,112.0,230.0,non-anginal pain,0.0,0.0,165.0,presence
+51.0,male,110.0,175.0,non-anginal pain,0.0,0.0,123.0,absence
+50.0,male,150.0,243.0,asymptomatic,0.0,0.0,128.0,presence
+65.0,female,140.0,417.0,non-anginal pain,0.0,1.0,157.0,absence
+53.0,male,130.0,197.0,non-anginal pain,0.0,1.0,152.0,absence
+41.0,female,105.0,198.0,atypical angina,0.0,0.0,168.0,absence
+65.0,male,120.0,177.0,asymptomatic,0.0,0.0,140.0,absence
+44.0,male,112.0,290.0,asymptomatic,0.0,0.0,153.0,presence
+44.0,male,130.0,219.0,atypical angina,0.0,0.0,188.0,absence
+60.0,male,130.0,253.0,asymptomatic,1.0,0.0,144.0,presence
+54.0,male,124.0,266.0,asymptomatic,1.0,0.0,109.0,presence
+50.0,male,140.0,233.0,non-anginal pain,0.0,0.0,163.0,presence
+41.0,male,110.0,172.0,asymptomatic,0.0,0.0,158.0,presence
+54.0,male,125.0,273.0,non-anginal pain,0.0,0.0,152.0,absence
+51.0,male,125.0,213.0,typical angina,1.0,0.0,125.0,absence
+51.0,female,130.0,305.0,asymptomatic,1.0,0.0,142.0,presence
+46.0,female,142.0,177.0,non-anginal pain,1.0,0.0,160.0,absence
+58.0,male,128.0,216.0,asymptomatic,1.0,0.0,131.0,presence
+54.0,female,135.0,304.0,non-anginal pain,0.0,1.0,170.0,absence
+54.0,male,120.0,188.0,asymptomatic,0.0,0.0,113.0,presence
+60.0,male,145.0,282.0,asymptomatic,1.0,0.0,142.0,presence
+60.0,male,140.0,185.0,non-anginal pain,0.0,0.0,155.0,presence
+54.0,male,150.0,232.0,non-anginal pain,0.0,0.0,165.0,absence
+59.0,male,170.0,326.0,asymptomatic,1.0,0.0,140.0,presence
+46.0,male,150.0,231.0,non-anginal pain,0.0,0.0,147.0,presence
+65.0,female,155.0,269.0,non-anginal pain,0.0,0.0,148.0,absence
+67.0,male,125.0,254.0,asymptomatic,0.0,1.0,163.0,presence
+62.0,male,120.0,267.0,asymptomatic,1.0,0.0,99.0,presence
+65.0,male,110.0,248.0,asymptomatic,0.0,0.0,158.0,presence
+44.0,male,110.0,197.0,asymptomatic,0.0,0.0,177.0,presence
+65.0,female,160.0,360.0,non-anginal pain,0.0,0.0,151.0,absence
+60.0,male,125.0,258.0,asymptomatic,1.0,0.0,141.0,presence
+51.0,female,140.0,308.0,non-anginal pain,0.0,0.0,142.0,absence
+48.0,male,130.0,245.0,atypical angina,0.0,0.0,180.0,absence
+58.0,male,150.0,270.0,asymptomatic,1.0,0.0,111.0,presence
+45.0,male,104.0,208.0,asymptomatic,1.0,0.0,148.0,absence
+53.0,female,130.0,264.0,asymptomatic,0.0,0.0,143.0,absence
+39.0,male,140.0,321.0,non-anginal pain,0.0,0.0,182.0,absence
+68.0,male,180.0,274.0,non-anginal pain,1.0,1.0,150.0,presence
+52.0,male,120.0,325.0,atypical angina,0.0,0.0,172.0,absence
+44.0,male,140.0,235.0,non-anginal pain,0.0,0.0,180.0,absence
+47.0,male,138.0,257.0,non-anginal pain,0.0,0.0,156.0,absence
+53.0,female,128.0,216.0,non-anginal pain,0.0,0.0,115.0,absence
+53.0,female,138.0,234.0,asymptomatic,0.0,0.0,160.0,absence
+51.0,female,130.0,256.0,non-anginal pain,0.0,0.0,149.0,absence
+66.0,male,120.0,302.0,asymptomatic,0.0,0.0,151.0,absence
+62.0,female,160.0,164.0,asymptomatic,0.0,0.0,145.0,presence
+62.0,male,130.0,231.0,non-anginal pain,0.0,0.0,146.0,absence
+44.0,female,108.0,141.0,non-anginal pain,0.0,0.0,175.0,absence
+63.0,female,135.0,252.0,non-anginal pain,0.0,0.0,172.0,absence
+52.0,male,128.0,255.0,asymptomatic,1.0,0.0,161.0,presence
+59.0,male,110.0,239.0,asymptomatic,1.0,0.0,142.0,presence
+60.0,female,150.0,258.0,asymptomatic,0.0,0.0,157.0,presence
+52.0,male,134.0,201.0,atypical angina,0.0,0.0,158.0,absence
+48.0,male,122.0,222.0,asymptomatic,0.0,0.0,186.0,absence
+45.0,male,115.0,260.0,asymptomatic,0.0,0.0,185.0,absence
+34.0,male,118.0,182.0,typical angina,0.0,0.0,174.0,absence
+57.0,female,128.0,303.0,asymptomatic,0.0,0.0,159.0,absence
+71.0,female,110.0,265.0,non-anginal pain,0.0,1.0,130.0,absence
+49.0,male,120.0,188.0,non-anginal pain,0.0,0.0,139.0,presence
+54.0,male,108.0,309.0,atypical angina,0.0,0.0,156.0,absence
+59.0,male,140.0,177.0,asymptomatic,1.0,0.0,162.0,presence
+57.0,male,128.0,229.0,non-anginal pain,0.0,0.0,150.0,presence
+61.0,male,120.0,260.0,asymptomatic,1.0,0.0,140.0,presence
+39.0,male,118.0,219.0,asymptomatic,0.0,0.0,140.0,presence
+61.0,female,145.0,307.0,asymptomatic,1.0,0.0,146.0,presence
+56.0,male,125.0,249.0,asymptomatic,1.0,1.0,144.0,presence
+52.0,male,118.0,186.0,typical angina,0.0,0.0,190.0,absence
+43.0,female,132.0,341.0,asymptomatic,1.0,1.0,136.0,presence
+62.0,female,130.0,263.0,non-anginal pain,0.0,0.0,97.0,presence
+41.0,male,135.0,203.0,atypical angina,0.0,0.0,132.0,absence
+58.0,male,140.0,211.0,non-anginal pain,0.0,1.0,165.0,absence
+35.0,female,138.0,183.0,asymptomatic,0.0,0.0,182.0,absence
+63.0,male,130.0,330.0,asymptomatic,1.0,1.0,132.0,presence
+65.0,male,135.0,254.0,asymptomatic,0.0,0.0,127.0,presence
+48.0,male,130.0,256.0,asymptomatic,1.0,1.0,150.0,presence
+63.0,female,150.0,407.0,asymptomatic,0.0,0.0,154.0,presence
+51.0,male,100.0,222.0,non-anginal pain,1.0,0.0,143.0,absence
+55.0,male,140.0,217.0,asymptomatic,1.0,0.0,111.0,presence
+65.0,male,138.0,282.0,typical angina,0.0,1.0,174.0,presence
+45.0,female,130.0,234.0,atypical angina,0.0,0.0,175.0,absence
+56.0,female,200.0,288.0,asymptomatic,1.0,1.0,133.0,presence
+54.0,male,110.0,239.0,asymptomatic,1.0,0.0,126.0,presence
+44.0,male,120.0,220.0,atypical angina,0.0,0.0,170.0,absence
+62.0,female,124.0,209.0,asymptomatic,0.0,0.0,163.0,absence
+54.0,male,120.0,258.0,non-anginal pain,0.0,0.0,147.0,absence
+51.0,male,94.0,227.0,non-anginal pain,1.0,0.0,154.0,absence
+29.0,male,130.0,204.0,atypical angina,0.0,0.0,202.0,absence
+51.0,male,140.0,261.0,asymptomatic,1.0,0.0,186.0,absence
+43.0,female,122.0,213.0,non-anginal pain,0.0,0.0,165.0,absence
+55.0,female,135.0,250.0,atypical angina,0.0,0.0,161.0,absence
+70.0,male,145.0,174.0,asymptomatic,1.0,0.0,125.0,presence
+62.0,male,120.0,281.0,atypical angina,0.0,0.0,103.0,presence
+35.0,male,120.0,198.0,asymptomatic,1.0,0.0,130.0,presence
+51.0,male,125.0,245.0,non-anginal pain,0.0,1.0,166.0,absence
+59.0,male,140.0,221.0,atypical angina,1.0,0.0,164.0,absence
+59.0,male,170.0,288.0,typical angina,0.0,0.0,159.0,presence
+52.0,male,128.0,205.0,atypical angina,0.0,1.0,184.0,absence
+64.0,male,125.0,309.0,non-anginal pain,1.0,0.0,131.0,presence
+58.0,male,105.0,240.0,non-anginal pain,1.0,0.0,154.0,absence
+47.0,male,108.0,243.0,non-anginal pain,0.0,0.0,152.0,presence
+57.0,male,165.0,289.0,asymptomatic,0.0,1.0,124.0,presence
+41.0,male,112.0,250.0,non-anginal pain,0.0,0.0,179.0,absence
+45.0,male,128.0,308.0,atypical angina,0.0,0.0,170.0,absence
+60.0,female,102.0,318.0,non-anginal pain,0.0,0.0,160.0,absence
+52.0,male,152.0,298.0,typical angina,0.0,1.0,178.0,absence
+42.0,female,102.0,265.0,asymptomatic,0.0,0.0,122.0,absence
+67.0,female,115.0,564.0,non-anginal pain,0.0,0.0,160.0,absence
+55.0,male,160.0,289.0,asymptomatic,1.0,0.0,145.0,presence
+64.0,male,120.0,246.0,asymptomatic,1.0,0.0,96.0,presence
+70.0,male,130.0,322.0,asymptomatic,0.0,0.0,109.0,presence
+51.0,male,140.0,299.0,asymptomatic,1.0,0.0,173.0,presence
+58.0,male,125.0,300.0,asymptomatic,0.0,0.0,171.0,presence
+60.0,male,140.0,293.0,asymptomatic,0.0,0.0,170.0,presence
+68.0,male,118.0,277.0,non-anginal pain,0.0,0.0,151.0,absence
+46.0,male,101.0,197.0,atypical angina,0.0,1.0,156.0,absence
+77.0,male,125.0,304.0,asymptomatic,1.0,0.0,162.0,presence
+54.0,female,110.0,214.0,non-anginal pain,0.0,0.0,158.0,absence
+58.0,female,100.0,248.0,asymptomatic,0.0,0.0,122.0,absence
+48.0,male,124.0,255.0,non-anginal pain,0.0,1.0,175.0,absence
+57.0,male,132.0,207.0,asymptomatic,1.0,0.0,168.0,absence
+52.0,male,138.0,223.0,non-anginal pain,0.0,0.0,169.0,absence
+54.0,female,132.0,288.0,atypical angina,1.0,1.0,159.0,absence
+35.0,male,126.0,282.0,asymptomatic,1.0,0.0,156.0,presence
+45.0,female,112.0,160.0,atypical angina,0.0,0.0,138.0,absence
+70.0,male,160.0,269.0,non-anginal pain,1.0,0.0,112.0,presence
+53.0,male,142.0,226.0,asymptomatic,1.0,0.0,111.0,absence
+59.0,female,174.0,249.0,asymptomatic,1.0,0.0,143.0,presence
+62.0,female,140.0,394.0,asymptomatic,0.0,0.0,157.0,absence
+64.0,male,145.0,212.0,asymptomatic,0.0,0.0,132.0,presence
+57.0,male,152.0,274.0,asymptomatic,1.0,0.0,88.0,presence
+52.0,male,108.0,233.0,asymptomatic,0.0,1.0,147.0,absence
+56.0,male,132.0,184.0,asymptomatic,1.0,0.0,105.0,presence
+43.0,male,130.0,315.0,non-anginal pain,0.0,0.0,162.0,absence
+53.0,male,130.0,246.0,non-anginal pain,0.0,1.0,173.0,absence
+48.0,male,124.0,274.0,asymptomatic,0.0,0.0,166.0,presence
+56.0,female,134.0,409.0,asymptomatic,1.0,0.0,150.0,presence
+42.0,male,148.0,244.0,typical angina,0.0,0.0,178.0,absence
+59.0,male,178.0,270.0,typical angina,0.0,0.0,145.0,absence
+60.0,female,158.0,305.0,asymptomatic,0.0,0.0,161.0,presence
+63.0,female,140.0,195.0,atypical angina,0.0,0.0,179.0,absence
+42.0,male,120.0,240.0,non-anginal pain,0.0,1.0,194.0,absence
+66.0,male,160.0,246.0,atypical angina,1.0,0.0,120.0,presence
+54.0,male,192.0,283.0,atypical angina,0.0,0.0,195.0,presence
+69.0,male,140.0,254.0,non-anginal pain,0.0,0.0,146.0,presence
+50.0,male,129.0,196.0,non-anginal pain,0.0,0.0,163.0,absence
+51.0,male,140.0,298.0,asymptomatic,1.0,0.0,122.0,presence
+43.0,male,132.0,247.0,asymptomatic,1.0,1.0,143.0,presence
+62.0,female,138.0,294.0,asymptomatic,0.0,1.0,106.0,presence
+68.0,female,120.0,211.0,non-anginal pain,0.0,0.0,115.0,absence
+67.0,male,100.0,299.0,asymptomatic,1.0,0.0,125.0,presence
+69.0,male,160.0,234.0,typical angina,0.0,1.0,131.0,absence
+45.0,female,138.0,236.0,asymptomatic,1.0,0.0,152.0,absence
+50.0,female,120.0,244.0,atypical angina,0.0,0.0,162.0,absence
+59.0,male,160.0,273.0,typical angina,0.0,0.0,125.0,presence
+50.0,female,110.0,254.0,asymptomatic,0.0,0.0,159.0,absence
+64.0,female,180.0,325.0,asymptomatic,1.0,0.0,154.0,absence
+57.0,male,150.0,126.0,non-anginal pain,0.0,1.0,173.0,absence
+64.0,female,140.0,313.0,non-anginal pain,0.0,0.0,133.0,absence
+43.0,male,110.0,211.0,asymptomatic,0.0,0.0,161.0,absence
+45.0,male,142.0,309.0,asymptomatic,1.0,0.0,147.0,presence
+58.0,male,128.0,259.0,asymptomatic,1.0,0.0,130.0,presence
+50.0,male,144.0,200.0,asymptomatic,1.0,0.0,126.0,presence
+55.0,male,130.0,262.0,atypical angina,0.0,0.0,155.0,absence
+62.0,female,150.0,244.0,asymptomatic,1.0,0.0,154.0,presence
+37.0,female,120.0,215.0,non-anginal pain,0.0,0.0,170.0,absence
+38.0,male,120.0,231.0,typical angina,1.0,0.0,182.0,presence
+41.0,male,130.0,214.0,non-anginal pain,0.0,0.0,168.0,absence
+66.0,female,178.0,228.0,asymptomatic,1.0,1.0,165.0,presence
+52.0,male,112.0,230.0,asymptomatic,0.0,0.0,160.0,presence
+56.0,male,120.0,193.0,typical angina,0.0,0.0,162.0,absence
+46.0,female,105.0,204.0,atypical angina,0.0,0.0,172.0,absence
+46.0,female,138.0,243.0,asymptomatic,1.0,0.0,152.0,absence
+64.0,female,130.0,303.0,asymptomatic,0.0,0.0,122.0,absence
+59.0,male,138.0,271.0,asymptomatic,0.0,0.0,182.0,absence
+41.0,female,112.0,268.0,non-anginal pain,1.0,0.0,172.0,absence
+54.0,female,108.0,267.0,non-anginal pain,0.0,0.0,167.0,absence
+39.0,female,94.0,199.0,non-anginal pain,0.0,0.0,179.0,absence
+53.0,male,123.0,282.0,asymptomatic,1.0,0.0,95.0,presence
+63.0,female,108.0,269.0,asymptomatic,1.0,0.0,169.0,presence
+34.0,female,118.0,210.0,atypical angina,0.0,0.0,192.0,absence
+47.0,male,112.0,204.0,asymptomatic,0.0,0.0,143.0,absence
+67.0,female,152.0,277.0,non-anginal pain,0.0,0.0,172.0,absence
+54.0,male,110.0,206.0,asymptomatic,1.0,0.0,108.0,presence
+66.0,male,112.0,212.0,asymptomatic,1.0,0.0,132.0,presence
+52.0,female,136.0,196.0,non-anginal pain,0.0,0.0,169.0,absence
+55.0,female,180.0,327.0,asymptomatic,1.0,0.0,117.0,presence
+49.0,male,118.0,149.0,non-anginal pain,0.0,0.0,126.0,presence
+74.0,female,120.0,269.0,atypical angina,1.0,0.0,121.0,absence
+54.0,female,160.0,201.0,non-anginal pain,0.0,0.0,163.0,absence
+54.0,male,122.0,286.0,asymptomatic,1.0,0.0,116.0,presence
+56.0,male,130.0,283.0,asymptomatic,1.0,1.0,103.0,presence
+46.0,male,120.0,249.0,asymptomatic,0.0,0.0,144.0,presence
+49.0,female,134.0,271.0,atypical angina,0.0,0.0,162.0,absence
+42.0,male,120.0,295.0,atypical angina,0.0,0.0,162.0,absence
+41.0,male,110.0,235.0,atypical angina,0.0,0.0,153.0,absence
+41.0,female,126.0,306.0,atypical angina,0.0,0.0,163.0,absence
+49.0,female,130.0,269.0,asymptomatic,0.0,0.0,163.0,absence
+61.0,male,134.0,234.0,typical angina,0.0,0.0,145.0,presence
+60.0,female,120.0,178.0,non-anginal pain,0.0,1.0,96.0,absence
+67.0,male,120.0,237.0,asymptomatic,0.0,0.0,71.0,presence
+58.0,male,100.0,234.0,asymptomatic,0.0,0.0,156.0,presence
+47.0,male,110.0,275.0,asymptomatic,1.0,0.0,118.0,presence
+52.0,male,125.0,212.0,asymptomatic,0.0,0.0,168.0,presence
+62.0,male,128.0,208.0,atypical angina,0.0,1.0,140.0,absence
+57.0,male,110.0,201.0,asymptomatic,1.0,0.0,126.0,absence
+58.0,male,146.0,218.0,asymptomatic,0.0,0.0,105.0,presence
+64.0,male,128.0,263.0,asymptomatic,1.0,0.0,105.0,absence
+51.0,female,120.0,295.0,non-anginal pain,0.0,0.0,157.0,absence
+43.0,male,115.0,303.0,asymptomatic,0.0,0.0,181.0,absence
+42.0,female,120.0,209.0,non-anginal pain,0.0,0.0,173.0,absence
+67.0,female,106.0,223.0,asymptomatic,0.0,0.0,142.0,absence
+76.0,female,140.0,197.0,non-anginal pain,0.0,0.0,116.0,absence
+70.0,male,156.0,245.0,atypical angina,0.0,0.0,143.0,absence
+57.0,male,124.0,261.0,atypical angina,0.0,0.0,141.0,presence
+44.0,female,118.0,242.0,non-anginal pain,0.0,0.0,149.0,absence
+58.0,female,136.0,319.0,atypical angina,0.0,1.0,152.0,presence
+60.0,female,150.0,240.0,typical angina,0.0,0.0,171.0,absence
+44.0,male,120.0,226.0,non-anginal pain,0.0,0.0,169.0,absence
+61.0,male,138.0,166.0,asymptomatic,1.0,0.0,125.0,presence
+42.0,male,136.0,315.0,asymptomatic,1.0,0.0,125.0,presence
+52.0,male,128.0,204.0,asymptomatic,1.0,1.0,156.0,presence
+59.0,male,126.0,218.0,non-anginal pain,0.0,1.0,134.0,presence
+40.0,male,152.0,223.0,asymptomatic,0.0,0.0,181.0,presence
+42.0,male,130.0,180.0,non-anginal pain,0.0,0.0,150.0,absence
+61.0,male,140.0,207.0,asymptomatic,1.0,0.0,138.0,presence
+66.0,male,160.0,228.0,asymptomatic,0.0,0.0,138.0,absence
+46.0,male,140.0,311.0,asymptomatic,1.0,0.0,120.0,presence
+71.0,female,112.0,149.0,asymptomatic,0.0,0.0,125.0,absence
+59.0,male,134.0,204.0,typical angina,0.0,0.0,162.0,presence
+64.0,male,170.0,227.0,typical angina,0.0,0.0,155.0,absence
+66.0,female,146.0,278.0,non-anginal pain,0.0,0.0,152.0,absence
+39.0,female,138.0,220.0,non-anginal pain,0.0,0.0,152.0,absence
+57.0,male,154.0,232.0,atypical angina,0.0,0.0,164.0,presence
+58.0,female,130.0,197.0,asymptomatic,0.0,0.0,131.0,absence
+57.0,male,110.0,335.0,asymptomatic,1.0,0.0,143.0,presence
+47.0,male,130.0,253.0,non-anginal pain,0.0,0.0,179.0,absence
+55.0,female,128.0,205.0,asymptomatic,1.0,0.0,130.0,presence
+35.0,male,122.0,192.0,atypical angina,0.0,0.0,174.0,absence
+61.0,male,148.0,203.0,asymptomatic,0.0,0.0,161.0,presence
+58.0,male,114.0,318.0,asymptomatic,0.0,0.0,140.0,presence
+58.0,female,170.0,225.0,asymptomatic,1.0,1.0,146.0,presence
+58.0,male,125.0,220.0,atypical angina,0.0,0.0,144.0,absence
+56.0,male,130.0,221.0,atypical angina,0.0,0.0,163.0,absence
+56.0,male,120.0,240.0,atypical angina,0.0,0.0,169.0,absence
+67.0,male,152.0,212.0,non-anginal pain,0.0,0.0,150.0,presence
+55.0,female,132.0,342.0,atypical angina,0.0,0.0,166.0,absence
+44.0,male,120.0,169.0,asymptomatic,1.0,0.0,144.0,presence
+63.0,male,140.0,187.0,asymptomatic,1.0,0.0,144.0,presence
+63.0,female,124.0,197.0,asymptomatic,1.0,0.0,136.0,presence
+41.0,male,120.0,157.0,atypical angina,0.0,0.0,182.0,absence
+59.0,male,164.0,176.0,asymptomatic,0.0,1.0,90.0,presence
+57.0,female,140.0,241.0,asymptomatic,1.0,0.0,123.0,presence
+45.0,male,110.0,264.0,typical angina,0.0,0.0,132.0,presence
+68.0,male,144.0,193.0,asymptomatic,0.0,1.0,141.0,presence
+57.0,male,130.0,131.0,asymptomatic,1.0,0.0,115.0,presence
+57.0,female,130.0,236.0,atypical angina,0.0,0.0,174.0,presence
+38.0,male,138.0,175.0,non-anginal pain,0.0,0.0,173.0,absence
